@@ -1,0 +1,6 @@
+- 👋 Hi there, I’m Aparna (@aparna162)!  
+- 👀 My focus areas are frontend development and artificial intelligence.  
+- 🌱 I’m currently diving deeper into React.js and AI model optimization.  
+- 💞️ Always open to collaborating on projects that merge design and technology.  
+- 📫 Reach out: mohantyaparna41@gmail.com 
+- ⚡ Fun fact: I’ve built AI chatbots and heritage booking systems using modern web technologies!  
