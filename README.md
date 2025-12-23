@@ -1,6 +1,8 @@
 <!-- Hero Banner -->
 
-
+<p align="center">
+  <img src="Screenshot (289).png" alt="Aparna Mohanty - Full-Stack Developer & AI Learner" />
+</p>
 
 <!-- Intro -->
 <h1 align="center">Hi, I'm Aparna Mohanty 👋</h1>
