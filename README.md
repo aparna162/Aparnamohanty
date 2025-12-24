@@ -84,7 +84,7 @@
 
 ## 📊 Activity & Stats
 
-[![aparna GitHub stats](https://github-readme-stats.vercel.app/api?username=aparna162)](https://github.com/aparna162/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=aparna162"/>
 
 
 ## 🤝 Let’s Build
