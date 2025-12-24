@@ -65,7 +65,6 @@
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-0A1A2F?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A1A2F?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A1A2F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A1A2F?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 
