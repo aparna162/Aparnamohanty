@@ -13,20 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-0A1A2F?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0A1A2F?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohantyaparna41@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A1A2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:mohantyaparna41@gmail.com"><img src="https://img.shields.io/badge/Email-0A1A2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aparna-mohanty-b59b70215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A1A2F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/aparna-mohanty-b59b70215/"><img src="https://img.shields.io/badge/LinkedIn-0A1A2F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
 
 ## 🚀 What I Build
 
@@ -134,7 +127,7 @@
 
 - 💬 Ask me about: React, Node.js, Firebase, Tailwind, and integrating AI into real products.  
 - 🚀 Open to: internships, junior roles, and collaborative projects.  
-- 📩 Reach out: **mohantyaparna41@gmail.com**
+- 📩 Reach out: [**mohantyaparna41@gmail.com**](mailto:mohantyaparna41@gmail.com)
 <br />
 
 <p align="center">
